@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #FFBC19;
+		background: #003015;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -197,10 +197,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #003015, #FFBC19);
-				background-image: -webkit-linear-gradient(to right, #003015, #FFBC19);
-				background-image: -ms-linear-gradient(to right, #003015, #FFBC19);
-				background-image: linear-gradient(to right, #003015, #FFBC19);
+				background-image: -moz-linear-gradient(to right, #FFBC19, #003015);
+				background-image: -webkit-linear-gradient(to right, #FFBC19, #003015);
+				background-image: -ms-linear-gradient(to right, #FFBC19, #003015);
+				background-image: linear-gradient(to right, #FFBC19, #003015);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -1915,7 +1915,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #FFBC19 !important;
+			color: #003015 !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #FFBC19;
+			background: #003015;
 		}
 
 		select:focus::-ms-value {
@@ -2444,7 +2444,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #FFBC19;
+			color: #003015;
 			content: '\f00c';
 		}
 
@@ -2525,7 +2525,7 @@ input, select, textarea {
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #FFBC19;
+			color: #003015;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2536,7 +2536,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #003015;
+					color: #FFBC19;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
@@ -2548,11 +2548,11 @@ input, select, textarea {
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #003015;
+					color: #FFBC19;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #FFBC19;
+					color: #003015;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3240,7 +3240,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #003015;
+			background-color: #FFBC19;
 		}
 
 		.wrapper.style1-alt {
@@ -3256,7 +3256,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #FFBC19;
+			background-color: #003015;
 		}
 
 		.wrapper.style3-alt {
@@ -3370,7 +3370,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #003015;
+		background-color: #FFBC19;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3765,10 +3765,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #003015, #FFBC19);
-				background-image: -webkit-linear-gradient(to right, #003015, #FFBC19);
-				background-image: -ms-linear-gradient(to right, #003015, #FFBC19);
-				background-image: linear-gradient(to right, #003015, #FFBC19);
+				background-image: -moz-linear-gradient(to right, #FFBC19, #003015);
+				background-image: -webkit-linear-gradient(to right, #FFBC19, #003015);
+				background-image: -ms-linear-gradient(to right, #FFBC19, #003015);
+				background-image: linear-gradient(to right, #FFBC19, #003015);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3857,7 +3857,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #FFBC19;
+							background-color: #003015;
 						}
 
 		}
